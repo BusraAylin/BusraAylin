@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BusraAylin
-- 🌱 I’m currently learning ...
+- 🌱 New Task: https://github.com/BusraAylin/IFD/blob/main/Wallet%20Project.pdf
 - 📫 How to reach me buesra.aylin.tuzun@hs-furtwangen.de
 
 
